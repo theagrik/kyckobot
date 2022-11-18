@@ -34,6 +34,6 @@
 
 ## Кто ты?
 
-Рофлодевелопер из Йошкар-Олы. Я в ВК: [vk.com/aGrIk_soft](https://vk.com/aGrIk_soft)
+Рофлодевелопер из Йошкар-Олы. Я: [agrik.ctw.re](https://agrik.ctw.re)
 
 **Удачи в использовании!**
