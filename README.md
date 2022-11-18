@@ -2,7 +2,7 @@
 
 Скрипт для троллинга (или компрометации) пользователей ВКонтакте
 
-**Kyckobot** (Kycko teсhnically is not an Bot), также **Кыцкобот** - не бот. Является скриптом на Python 3, который способен сжигать дотла задние тазовые части Ваших несчастных собеседников путём ответа на их сообщения точкой. Вот, посмотрите:
+**Kyckobot** (Kycko teсhnically is not a Bot), также **Кыцкобот** - не бот. Является скриптом на Python 3, который способен сжигать дотла задние тазовые части Ваших несчастных собеседников путём ответа на их сообщения точкой. Вот, посмотрите:
 ![screenshot of sample](https://sun9-29.userapi.com/0nnqKhq7btbz4qFR1T1pH7emIyYUiliBIAIFrw/golmFMMOCnk.jpg)
 ![screenshot of sample](https://sun9-63.userapi.com/osYfwfqctpelaer5EMOCh_XCWLAF5VfNuUMGMQ/JCVWrQMAY-I.jpg)
 
